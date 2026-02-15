@@ -1,0 +1,7 @@
+numpy
+datasets
+librosa
+transformers
+evaluate
+tqdm
+pandas
